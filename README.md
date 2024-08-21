@@ -5,6 +5,7 @@
   2. Klik tombol download
   3. Klik menu Installer Image'
   4. Download file Kali Linux Installer x64
+
      <img width="952" alt="21" src="https://github.com/user-attachments/assets/31bf70d8-34dd-4faa-a13f-e0a401195bc3">
      
 ## Installasi Kali Linux pada Virtual Box

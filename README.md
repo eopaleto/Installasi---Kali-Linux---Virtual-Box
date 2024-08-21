@@ -1,4 +1,4 @@
-<img width="960" alt="11" src="https://github.com/user-attachments/assets/18d86157-2543-4773-a32c-b6f2975dbb1a"># INSTALLASI KALI LINUX PADA VIRTUAL BOX
+# INSTALLASI KALI LINUX PADA VIRTUAL BOX
 
 ## Download File Kali Linux
   1. Akses situs www.kali.org
